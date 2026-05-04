@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+crewai
+crewai-tools
+litellm
+requests
+python-dotenv
+pydantic
+fpdf2
+pdfplumber
+plotly
+pandas
+python-dateutil
+google-generativeai

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+crewai
+litellm
+requests
+python-dotenv
+pydantic
+fpdf2

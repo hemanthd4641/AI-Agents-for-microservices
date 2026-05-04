@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+crewai
+litellm
+requests
+python-dotenv
+pydantic
+pdfplumber
+plotly
+pandas

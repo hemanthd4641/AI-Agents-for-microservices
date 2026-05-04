@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+groq
+pydantic
+python-dotenv
+crewai
+litellm
+fpdf2
+google-generativeai
+requests
+pandas
+plotly
+python-dateutil
